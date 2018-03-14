@@ -12,11 +12,11 @@ Saving her is your only hope for a better world.
 
 It won’t be easy and it won’t be without sacrifice; 
 but someone needs to say enough, and that is YOU.
-****
+----
 **Click the image below to watch the 4K Trailer**
-****
+----
 [![4K Trailer](https://img.youtube.com/vi/VeNaFitrLqk/0.jpg)](https://www.youtube.com/watch?v=VeNaFitrLqk)
-****
+----
 **Click the image below to watch the gameplay devblog video**
-****
+----
 [![gameplay devblog video](https://img.youtube.com/vi/7sXDa70niQY/0.jpg)](https://www.youtube.com/watch?v=7sXDa70niQY)
