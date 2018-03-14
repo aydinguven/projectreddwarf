@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Project Red Dwarf - BBM421 Project
 
-You can use the [editor on GitHub](https://github.com/aydinguven/projectreddwarf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](files/poster.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Imagine a world where a handful of corporations own everything; your memories, your hopes, your dreams, your life. A world where everyone has a price except for a few. A world full of lies, deception and cruelty…
 
-### Markdown
+But you have a chance. A chance to start a fire that will end the tyranny of the corporations. 
+That chance is Iris. 
+She has information that shouldn’t get to the wrong hands, and she needs to run!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Saving her is your only hope for a better world.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aydinguven/projectreddwarf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It won’t be easy and it won’t be without sacrifice; 
+but someone needs to say enough, and that is YOU.
+****
+**Click the image below to watch the 4K Trailer**
+****
+[![4K Trailer](https://img.youtube.com/vi/VeNaFitrLqk/0.jpg)](https://www.youtube.com/watch?v=VeNaFitrLqk)
+****
+**Click the image below to watch the gameplay devblog video**
+****
+[![gameplay devblog video](https://img.youtube.com/vi/7sXDa70niQY/0.jpg)](https://www.youtube.com/watch?v=7sXDa70niQY)
